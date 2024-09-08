@@ -1,2 +1,2 @@
-![plot](/Users/giuseppecangemi/Desktop/Programming/FISB/dev/domenica_eliminatorie.png )
+![plot](domenica_eliminatorie.png )
 
